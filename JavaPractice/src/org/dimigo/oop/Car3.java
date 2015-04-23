@@ -18,7 +18,7 @@ public class Car3 {
  		price = newPrice; 
  	} 
  	public Car3(String newCompany, String newModel, String newColor, int newMaxSpeed){ 
- 		this(newCompany, newModel, newColor, newMaxSpeed, 0); 
+ 	    	this(newCompany, newModel, newColor, newMaxSpeed, 0); 
  	} 
  	public Car3(String newCompany, String newModel, String newColor){ 
  		this(newCompany, newModel, newColor, 0); 
